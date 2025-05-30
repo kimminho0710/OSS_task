@@ -9,7 +9,7 @@
 - 김민호(팀 리더): 저장소 초기화, GitHub 리포지토리 생성, 태그 생성, README 파일 생성
 - 김윤교(기획자): 이슈, 마일스톤, 라벨 설정 및 관리, README 파일 생성
 - 홍광일(개발자 A): book_list.txt 내용 작성 및 PR 생성, README 파일 생성
-- 김민호(개발자 B): markdown_guide.txt 내용 작성 및 PR 생성,  README 파일 생성
+- 이종현(개발자 B): markdown_guide.txt 내용 작성 및 PR 생성,  README 파일 생성
 
 # 브랜치
 
@@ -121,9 +121,9 @@ git clone git@github.com:kimminho0710/OSS_task.git
 
 프로젝트명
 (빈 행)
-협업 과정에서 좋았던 점
-(빈 행)
 진행 개요 요약
+(빈 행)
+협업 과정에서 좋았던 점
 (빈 행)
 어려웠던 점
 (빈 행)
